@@ -108,7 +108,7 @@ const Navigation = () => {
 										>
 											<i className="fa fa-instagram" />
 											<span className="nav-link-inner--text d-lg-none ml-2">
-												Instagram
+												Inst
 											</span>
 										</NavLink>
 									</NavItem>
