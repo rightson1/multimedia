@@ -8,10 +8,6 @@ export const greetings = {
   resumeLink: "/",
 };
 
-export const openSource = {
-  githubUserName: "brendanglancy",
-};
-
 export const contact = {};
 
 export const socialLinks = {
@@ -97,34 +93,7 @@ export const experience = [
   },
 ];
 
-export const projects = [
-  {
-    name: "Brewery Locator",
-    desc: "A web application that allows users to search and review breweries in the United States. Users can search for breweries by name, city, state, or zip code. Users can also add breweries to their favorites list and leave reviews for breweries.",
-    github: "https://github.com/BrendanGlancy/BreweryLocater",
-    tags: ["Java", "VueJS", "PostgreSQL"],
-  },
-  {
-    name: "Empyrial",
-    desc: "Contributor on Empyrial, Empyrial is a Python-based open-source quantitative investment library dedicated to financial institutions and retail investors, officially released in March 2021. Already used by thousands of people working in the finance industry, Empyrial aims to become an all-in-one platform for portfolio management, analysis, and optimization.",
-    github: "https://github.com/ssantoshp/Empyrial",
-    link: "https://ssantoshp.github.io/Empyrial/",
-    tags: ["python", "finace", "machine learning"],
-  },
-  {
-    name: "Coontz-Web",
-    desc: "Personal Website built with Astro, Svelte, and JavaScript. Collaborated with a fellow Akron University student to build a website for a friend. Contains a blog of writeups for challenges done by the CTF team",
-    github: "https://github.com/Coontz1/myWebsite",
-    link: "https://austin-coontz.vercel.app/",
-    tags: ["Astro", "TypeScript", "JavaScript"],
-  },
-  {
-    name: "OVS Knife Co.",
-    desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
-    link: "https://ovsknife.com/home",
-    tags: ["Intern", "Full Stack", "E-Commerce"],
-  },
-];
+export const projects = [];
 
 export const feedbacks = [
   {
