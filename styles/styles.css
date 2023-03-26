@@ -1,0 +1,7 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
